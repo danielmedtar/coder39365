@@ -9,3 +9,8 @@ Crear repo en GIT:
 4. Verificacion de status, siempre que quieran ya que solo informativo: git status
 
 5. Confirmar los cambios con: git commit -m "Algun mensaje descriptivo"
+
+Crear ramas:
+1. saber en cuál rama estoy: git branch
+
+2. Crear nueva rama: git branch nombreDeRama
